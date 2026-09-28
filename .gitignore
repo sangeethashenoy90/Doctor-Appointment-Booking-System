@@ -1,0 +1,14 @@
+# Environment / sensitive files
+.env
+
+# IDE settings
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
