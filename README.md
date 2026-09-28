@@ -6,7 +6,7 @@ A web-based \*\*Doctor Appointment Booking System\*\* built with \*\*PHP and MyS
 
 
 
-This project is a \*\*redesigned and extended version of an existing open-source project\*\*, with additional functionality, database improvements, interface enhancements, and appointment-management features.
+The system provides a user-friendly platform for managing doctor appointments, patient records, doctor information, and administrative operations efficiently.
 
 
 
